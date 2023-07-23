@@ -9,7 +9,7 @@ This Node.js script is designed to read Kepler data from a CSV file, parse the d
 1. Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 2. Clone this repository to your local machine using the following command:
 
-git clone https://github.com/your-username/habitable-planets-counter.git
+git clone https://github.com/jinnkhan88/habitable-planets-counter.git
 
 3. Navigate to the project directory:
 
